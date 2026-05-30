@@ -1,0 +1,10 @@
+# programma creato da Mattia Leoni, che sfrutta il programma da riga di comando chunker-cli.exe per attuare la conversione di mondi Bedrock Edition a Java Edition
+
+Come usarlo?
+il programma quando viene aperto chiede il percorso del mondo Bedrock da convertire, un esempio di percorso può essere questo "C:\Users\nome_utente\Desktop"
+
+poi verrà chiesto il percorso di output ovvero dove si troverà il mondo convertito in Java, qui bisogno fare attenzione a una cosa, perché l'output saranno molteplici file quindi se vuoi che venga salvato sul desktop non devi fare "C:\Users\nome_utente\Desktop" ma "C:\Users\nome_utente\Desktop\nome_che_vuoi_che_abbia_il_mondo"
+
+le versioni per ora da me inserite sono la  26.1.2, 26.1.1, 26.1, 1.21.11, 1.21.8
+
+repository di chunker : "https://github.com/HiveGamesOSS/Chunker"
